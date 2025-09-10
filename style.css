@@ -1,0 +1,41 @@
+body {
+    background-color: whitesmoke;
+}
+
+@font-face {
+    font-family: "Argon";
+    src: url("Argon.otf");
+}
+
+@font-face {
+    font-family: "Bosnia-Outline";
+    src: url("Bosnia-Outline.otf");
+}
+
+@font-face {
+    font-family: "Bosnia";
+    src: url("Bosnia.otf");
+}
+
+@font-face {
+    font-family: "Rain-Amoury";
+    src: url("Rain Amoury.ttf");
+}
+
+h1, h2, h3, h4, h5, h6, ul, li, p, a, span, div {
+    color: rgb(29, 21, 53);
+}
+
+.header {
+    font-family: "Bosnia", sans-serif;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 2em;
+}
+
+.headerSentence {
+    font-family: "Rain-Amoury", sans-serif;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 5em;
+}
