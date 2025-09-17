@@ -67,7 +67,7 @@ h1, h2, h3, h4, h5, h6, ul, li, p, a, span, div {
 }
 
 .headerSentence {
-    font-family: "Gelineos";
+    font-family: "Cebiela";
     font-size: 25px;
     text-align: center;
     margin-top: 5em;
@@ -173,7 +173,7 @@ h1, h2, h3, h4, h5, h6, ul, li, p, a, span, div {
     position: absolute;
     top: -0.55em;
     left: -10em;
-    font-family: "Gelineos";
+    font-family: "Cebiela";
     font-size: 4em;
     opacity: 1;
 }
@@ -191,7 +191,7 @@ h1, h2, h3, h4, h5, h6, ul, li, p, a, span, div {
     position: absolute;
     top: 0.95em;
     left: -10em;
-    font-family: "Gelineos";
+    font-family: "Cebiela";
     font-size: 4em;
     opacity: 1;
 }
@@ -209,7 +209,7 @@ h1, h2, h3, h4, h5, h6, ul, li, p, a, span, div {
     position: absolute;
     top: 2.45em;
     left: -10em;
-    font-family: "Gelineos";
+    font-family: "Cebiela";
     font-size: 4em;
     opacity: 1;
 }
@@ -227,7 +227,7 @@ h1, h2, h3, h4, h5, h6, ul, li, p, a, span, div {
     position: absolute;
     top: 3.95em;
     left: -10em;
-    font-family: "Gelineos";
+    font-family: "Cebiela";
     font-size: 4em;
     opacity: 1;
 }
@@ -246,7 +246,7 @@ h1, h2, h3, h4, h5, h6, ul, li, p, a, span, div {
     top: 5.45em;
     left: -10em;
     padding-right: -3em;
-    font-family: "Gelineos";
+    font-family: "Cebiela";
     font-size: 4em;
     opacity: 1;
 }
@@ -267,7 +267,7 @@ h1, h2, h3, h4, h5, h6, ul, li, p, a, span, div {
 }
 
 .welcomeHeader {
-    font-family: "Gelineos";
+    font-family: "Cebiela";
     font-size: 6em;
     text-align: left;
     top: 48em;
@@ -314,7 +314,7 @@ h1, h2, h3, h4, h5, h6, ul, li, p, a, span, div {
 }
 
 .ourCourseHeader {
-    font-family: "Gelineos";
+    font-family: "Cebiela";
     font-size: 6em;
     text-align: left;
     top: 108em;
