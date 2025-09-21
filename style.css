@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6, ul, li, p, a, span, div {
     height: 5em;
     width: 5em;
     border-radius: 25px;
-    background-color: rgba(129, 216, 16, 0.596);
+    background-color: rgb(129, 216, 16);
     z-index: 1;
     transition: all 0.5s ease;
     background-image: id="image" url("Hamburger Button.png");
@@ -98,7 +98,7 @@ h1, h2, h3, h4, h5, h6, ul, li, p, a, span, div {
     height: 35em;
     width: 35em;
     border-radius: 25px;
-    background-color: rgba(152, 214, 46, 0.808);
+    background-color: rgba(84, 110, 39, 0.553);
     backdrop-filter: blur(4px);
     z-index: 1;
     transition: all 0.5s ease;
@@ -358,4 +358,33 @@ h1, h2, h3, h4, h5, h6, ul, li, p, a, span, div {
     border-radius: 25px;
     top: 156em;
     z-index: 0;
+}
+
+#footerSection {
+    margin-top: 5em;
+    padding-top: 2em;
+    background-color: rgb(138, 195, 25);
+    border-radius: 15px;
+    height: 45em;
+    text-align: center;
+}
+
+.footerHeader {
+    font-family: "Cebiela";
+    font-size: 6em;
+    text-align: center;
+    top: 170em;
+    float: left;
+    padding-left: 1em;
+    z-index: 2;
+}
+.footerText {
+    font-family: "Poltab Regular";
+    font-size: 1.5em;
+    text-align: left;
+    float: right;
+    line-height: 1.6;
+    padding-top: 12.5em;
+    padding-left: 10em;
+    padding-right: 5em;
 }
