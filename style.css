@@ -388,3 +388,9 @@ h1, h2, h3, h4, h5, h6, ul, li, p, a, span, div {
     padding-left: 10em;
     padding-right: 5em;
 }
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
