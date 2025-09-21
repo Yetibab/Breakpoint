@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6, ul, li, p, a, span, div {
     height: 5em;
     width: 5em;
     border-radius: 25px;
-    background-color: rgb(45, 159, 70);
+    background-color: rgba(129, 216, 16, 0.596);
     z-index: 1;
     transition: all 0.5s ease;
     background-image: id="image" url("Hamburger Button.png");
@@ -98,7 +98,7 @@ h1, h2, h3, h4, h5, h6, ul, li, p, a, span, div {
     height: 35em;
     width: 35em;
     border-radius: 25px;
-    background-color: rgba(37, 133, 58, 0.674);
+    background-color: rgba(152, 214, 46, 0.808);
     backdrop-filter: blur(4px);
     z-index: 1;
     transition: all 0.5s ease;
@@ -171,7 +171,7 @@ h1, h2, h3, h4, h5, h6, ul, li, p, a, span, div {
 
 .bar1Text {
     position: absolute;
-    top: -0.55em;
+    top: -0.30em;
     left: -10em;
     font-family: "Cebiela";
     font-size: 4em;
@@ -286,9 +286,10 @@ h1, h2, h3, h4, h5, h6, ul, li, p, a, span, div {
 }
 
 .welcomeSentence {
-    font-family: "Argon";
+    font-family: "Poltab Regular";
     font-size: 1.5em;
-    text-align: center;
+    font-weight: 400;
+    text-align: left;
     line-height: 1.6;
     padding-top: 6em;
     padding-left: 35em;
@@ -324,9 +325,9 @@ h1, h2, h3, h4, h5, h6, ul, li, p, a, span, div {
 }
 
 .ourCourseText {
-    font-family: "Argon";
+    font-family: "Poltab Regular";
     font-size: 1.5em;
-    text-align: center;
+    text-align: left;
     line-height: 1.6;
     padding-top: 6em;
     padding-left: 35em;
@@ -350,6 +351,6 @@ h1, h2, h3, h4, h5, h6, ul, li, p, a, span, div {
     width: 40%;
     height: auto;
     border-radius: 25px;
-    top: 152em;
+    top: 156em;
     z-index: 0;
 }
